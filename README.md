@@ -85,15 +85,16 @@ It allows users to browse items, add products to cart, place secure orders, and 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sagar18nayaka&theme=tokyonight&row=1&column=6" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/Sagar18nayaka/Sagar18nayaka/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 💡 Quote
 
 <p align="center">
-  <img src="https://github-…
+  <b>"Code. Learn. Build. Repeat."</b>
+</p>
