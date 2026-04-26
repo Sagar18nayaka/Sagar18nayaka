@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm SAGAR M</h1>
+<h1 align="center">Hi 👋, I'm Sagar M</h1>
 <h3 align="center">Aspiring Full Stack Developer | Django Developer | MCA Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Full+Stack+Developer;Django+Developer+%7C+Python+Learner;Building+Real-Time+Projects+with+Passion" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sagar18nayaka&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
 ---
 
@@ -11,12 +19,13 @@
 - 🚀 Built projects like *AGROFARMING (Farm2Home)*
 - 📍 From *Bengaluru, Karnataka, India*
 - 📫 Reach me at: *sagarkiccha18@gmail.com*
+- 🔗 Portfolio/Projects: [GitHub Repositories](https://github.com/Sagar18nayaka?tab=repositories)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Sagar18nayaka" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -34,7 +43,7 @@
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -51,6 +60,7 @@
 ## 🚀 Featured Project
 
 ### 🌾 AGROFARMING (Farm2Home)
+
 *AGRO-FARMING SHOPPING (Farm2Home)* is a Django-based web application for ordering fresh fruits, vegetables, dairy products, and groceries.  
 It allows users to browse items, add products to cart, place secure orders, and enables admins to manage products, categories, users, and customer bookings efficiently.
 
@@ -62,21 +72,28 @@ It allows users to browse items, add products to cart, place secure orders, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar18nayaka&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar18nayaka&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar18nayaka&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar18nayaka&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar18nayaka&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar18nayaka&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sagar18nayaka/Sagar18nayaka/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sagar18nayaka&theme=tokyonight&row=1&column=6" alt="trophies" />
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-…
